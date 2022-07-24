@@ -5,5 +5,5 @@ My fisrt unity game.
 
 unty 4.x
 
-javscript
+javascript
 
